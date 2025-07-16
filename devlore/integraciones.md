@@ -12,8 +12,6 @@ Cliente WinDev 2025 SaaS para obtener conteo de personas desde cámaras Dahua.
 
 ---
 
----
-
 ## 🧠 ¿Querés contribuir?
 
 Si tenés una integración que creés útil para otros HolaWindevs (incluso parcial), escribí a:
